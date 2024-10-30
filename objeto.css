@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    margin: 10px auto;
+}
+.contador {
+    margin: 0 170px;
+    padding-bottom: 100px;
+}
+.title {
+    font-size: 85px;
+    margin-bottom: 20px;
+    color: black;
+}
+.text {
+    font-size: 85px;
+    margin-bottom: 10px;
+}
